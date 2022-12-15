@@ -12,6 +12,9 @@ This project's goal was to refactor Horiseon's marketing webpage to provide more
 * Redundant CSS classes were consolidated
 
 ### Links 
+https://neffej.github.io/Horiseon-accessible-codebase/#search-engine-optimization
+
+https://github.com/neffej/Horiseon-accessible-codebase
 
 ### Installation
 The webpage is ready to deploy. To do so, upload the assets folder, index.html, and license.txt to the webserver of your choice.
